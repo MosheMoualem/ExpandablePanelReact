@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Moshe 1",
+    "children": [
+      {
+        "id": 2,
+        "title": "Moshe Child 1"
+      },
+      {
+        "id": 3,
+        "title": "Moshe Child 2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dudik 1",
+    "children": [
+      {
+        "id": 5,
+        "title": "Dudik Child 1"
+      },
+      {
+        "id": 6,
+        "title": "Dudik Child 2"
+      }
+    ]
+  }
+]
